@@ -17,7 +17,7 @@ which he was able to find in the HTML of the page. He was able to find that:
 
 ![pic](https://s3.amazonaws.com/dq-content/288/s1gp_actual_vs_displayed.png)
 
-<center>Source: [FiveThirtyEight](https://fivethirtyeight.com/features/fandango-movies-ratings/)</center>
+Source: [FiveThirtyEight](https://fivethirtyeight.com/features/fandango-movies-ratings/)
 
 The two distributions above are displayed using a simple line plot, which is also a valid way to show the shape of a distribution. 
 The variable being examined is movie rating, and for each unique rating we can see its relative frequency (percentage) on the y-axis of the graph. 
