@@ -16,6 +16,7 @@ which he was able to find in the HTML of the page. He was able to find that:
 * For one movie rating, the rounding off was completely bizarre: from a rating of 4 in the HTML of the page to a displayed rating of 5 stars.
 
 ![pic](https://s3.amazonaws.com/dq-content/288/s1gp_actual_vs_displayed.png)
+
 <c>Source: [FiveThirtyEight](https://fivethirtyeight.com/features/fandango-movies-ratings/)</c>
 
 The two distributions above are displayed using a simple line plot, which is also a valid way to show the shape of a distribution. 
