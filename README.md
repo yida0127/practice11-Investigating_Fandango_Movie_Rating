@@ -33,3 +33,8 @@ since the actual rating value doesn't seem to be displayed anymore in the pages'
 
 In this project, we'll analyze more recent movie ratings data to determine <b>whether there has been any change in Fandango's 
 rating system after Hickey's analysis.</b>
+
+We'll use two datasets in different periods of time:
+* Walt Hickey made the data he analyzed publicly available [on GitHub](https://github.com/fivethirtyeight/data/tree/master/fandango). We'll use the data he collected to analyze the characteristics of Fandango's rating system previous to his analysis.
+
+* One of Dataquest's team members collected movie ratings data for movies released in 2016 and 2017. The data is publicly available [on GitHub](https://github.com/mircealex/Movie_ratings_2016_17) and we'll use it to analyze the rating system's characteristics after Hickey's analysis.
